@@ -103,7 +103,7 @@ body {
     margin-bottom: 30px;
   }
 }
-@media (min-width: 375px) and (max-width: 600px) {
+@media (min-width: 375px) and (max-width: 700px) {
   .card__content {
     text-align: center;
   }
